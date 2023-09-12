@@ -114,7 +114,7 @@ The Person API provides the following endpoints for interacting with person reco
   - Endpoint: `/api/`
   - HTTP Method: DELETE
 
-For detailed information on how to use each endpoint, refer to the [API Documentation](#api-documentation).
+For detailed information on how to use each endpoint, refer to the [API Documentation](https://github.com/enayds/person-record-api/blob/master/documentation.md).
 
 ## Validation
 
