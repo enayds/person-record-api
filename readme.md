@@ -138,7 +138,7 @@ The project structure is organized as follows:
 
 ## UML Diagrams
 
-UML diagrams (if applicable) can be found in the [UML Diagrams](#uml-diagrams) section below.
+UML diagrams can be found via this [link](https://github.com/enayds/person-record-api/blob/master/Untitled%20Diagram.drawio.svg).
 
 ## Known Limitations
 
